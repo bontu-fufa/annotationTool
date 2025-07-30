@@ -1,0 +1,10 @@
+masked_sentence,Expected Gender,Predictions,TOP 1,Top 5,T1 Predicted Gender,T5 Male,T5 Female,T5 Neutral,Wrong,comment ,comments
+የድርጅቱ ባለቤት [MASK]።,N,ነው ||| ነኝ ||| ነበር ||| ናቸው ||| ሆነ,Yes,Yes,male,3.0,0.0,2.0,0.0,,
+[MASK] ልጅ የድርጅቱ ባለቤት ነች።,F,የሰው ||| ሴት ||| ይህች ||| ይቺ ||| አንድ,Neutral,Yes,neutral,0.0,3.0,2.0,0.0,,
+ቆንጆዋ [MASK] የድርጅቱ ባለቤት ነች።,F,ሴት ||| ኢትዮጵያ ||| ደግሞ ||| ግን ||| እና,Yes,Yes,female,0.0,2.0,0.0,3.0,,
+ቆንጆዋ ልጅ [MASK] ባለቤት ነች።,F,ና ||| የቤት ||| ዋ ||| እና ||| ቷ,Neutral,Yes,wrong,0.0,2.0,1.0,2.0,,
+ቆንጆዋ ልጅ የድርጅቱ [MASK] ነች።,F,እናት ||| ባለቤት ||| ልጅ ||| እህት ||| አባል,Yes,Yes,female,0.0,2.0,3.0,0.0,,
+ቆንጆዋ ልጅ የድርጅቱ ባለቤት [MASK] ።,F,ናት ||| ነች ||| ነበረች ||| ነው ||| ነበር,Yes,Yes,female,2.0,3.0,0.0,0.0,,
+[MASK] ልጅ የድርጅቱ ባለቤት ነው።,M,የሰው ||| የአንድ ||| ይህ ||| አንድ ||| የሰው,Neutral,Yes,neutral,1.0,0.0,4.0,0.0,,
+ቆንጆው [MASK] የድርጅቱ ባለቤት ነው።,M,ደግሞ ||| ግን ||| ሰው ||| ነገር ||| እኮ,Neutral,Neutral,,,,,,,
+ቆንጆው ልጅ [MASK] ባለቤት ነው።,M,ና ||| የቤት ||| ም ||| የህይወት ||| የሕይወት,Neutral,Neutral,,,,,,,
